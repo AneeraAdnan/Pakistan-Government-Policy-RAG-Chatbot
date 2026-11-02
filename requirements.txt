@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+easyocr
+numpy
+sentence-transformers
+faiss-cpu
+ollama
+langchain-text-splitters
+pdfplumber
+pydantic
